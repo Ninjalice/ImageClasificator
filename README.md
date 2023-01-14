@@ -1,4 +1,4 @@
-# ImageClasificator
+# Image Classifier
 
 
 ![Alt text](/project_image.jpg)
