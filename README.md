@@ -3,22 +3,22 @@
 
 ![Alt text](/project_image.jpg)
 ## Dataset:
-Para el correcto funcionamiento del programa todos los ficheros del dataset tienen que estar en una carpeta llamada archive.
+For the correct functioning of the program, all the files of the dataset have to be in a folder called archive.
 
-#### Distribucion del dataset:
+#### Dataset distribution:
 
 ![Alt text](/dataset.jpg)
 
 Dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 
-## Dependencias:
+## Dependencies:
 
-Para instalar las dependencias ejecute el comando:
+To install the dependencies, run the command:
 
 ` pip install -r requirements.txt`
 
-## Resultados:
+## Results:
 ![Alt text](/resultados.jpg)
 
 ---
-Creado por Odei Hijarrubia y Endika Aguirre 2022-2023
+Created by Odei Hijarrubia and Endika Aguirre 2022-2023
